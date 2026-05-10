@@ -22,6 +22,9 @@
 <img width="250" alt="localhost_56844_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/b4647468-4fc6-4bac-a37a-934ab04d436b" />
 
 <img width="250"  alt="localhost_56844_(iPhone 14 Pro Max) (4)" src="https://github.com/user-attachments/assets/b3837de6-906d-42a7-8754-1f286ed54f4e" />
+
+<img width="250"  alt="localhost_56844_(iPhone 14 Pro Max) (5)" src="https://github.com/user-attachments/assets/353664e6-f5c2-43ae-822c-f31c538d6ab8" />
+
   </div>
 
 ## 🛠️ เทคโนโลยีที่ใช้
