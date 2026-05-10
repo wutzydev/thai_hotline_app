@@ -29,7 +29,6 @@ class _SplashScreenUIState extends State<SplashScreenUI> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // เปลี่ยนชื่อไฟล์รูปให้ตรงกับที่คุณมีใน assets/images
             Image.asset('assets/icon/hotline.jpg', width: 300),
 
             const SizedBox(height: 30),
